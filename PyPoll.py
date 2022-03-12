@@ -27,11 +27,4 @@ with open(file_to_load, encoding='utf-8') as election_data:
     headers = next(file_reader)
     print(headers)
 
-    print(election_data)
-
-
-
-
-
-    
-
+ 
