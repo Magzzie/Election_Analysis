@@ -15,8 +15,10 @@ A Colorado Board of Elections employee, Tom, has requested the following paramet
   9. The winner of the election based on popular vote. 
   
 ## Resources: 
-- Data Source: election_results.csv
+- Data Source: [election_results.csv](https://github.com/Magzzie/Election_Analysis/blob/main/Resources/election_results.csv)
 - Software: Python (3.9.7), Visual Studio Code (1.65.2).
+- Code file: [PyPoll_Challenge_starter_code.py](https://github.com/Magzzie/Election_Analysis/blob/main/PyPoll_Challenge_starter_code.py)
+- Output text file: [election_analysis.txt](https://github.com/Magzzie/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
 ## Summary of Audit Results:
 The analysis of the election shows that: 
