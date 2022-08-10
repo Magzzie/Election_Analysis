@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election_Audit_Python
 Defining election's winner using Python and VS code.
 
 ## Project Overview
@@ -83,3 +83,5 @@ for example:
   - Output style and organization could be easily reformatted, by editing the F-strings.
 
 In summary, this is an adaptable code and can be utilized for various analyses on CSV data files.
+
+---
